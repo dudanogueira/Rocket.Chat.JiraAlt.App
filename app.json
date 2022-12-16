@@ -1,0 +1,16 @@
+{
+    "id": "b134bf29-8290-4dfa-862d-7748d36a3be1",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Duda Nogueira",
+        "homepage": "http://github.com/dudanogueira/",
+        "support": "http://github.com/dudanogueira/"
+    },
+    "name": "Jira Alternative Integration",
+    "nameSlug": "jira-alternative-integration",
+    "classFile": "JiraAlternativeIntegrationApp.ts",
+    "description": "Jira Alt",
+    "implements": []
+}
